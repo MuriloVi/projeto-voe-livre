@@ -1,0 +1,83 @@
+.booking{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:10%;
+    width: 80%;
+    .bookme{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 2%;
+    }
+   .otitle{
+       background:silver;
+       color:slategrey;
+       width: 80%;
+       display: flex;
+       justify-content: center;
+   }
+  .list-item{
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+    width: 78%;
+    padding:1%;
+    height: 80px;
+    border-bottom: 2px solid gray;
+    input{width: 50px;}
+    .airp-sgl{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+    }
+    .airp-info{
+      margin-left: 10%;
+      width: 100%;
+      p{margin: 0;}
+     
+    }
+  }
+  .chk{
+    height: 30px;
+    width:30px;
+    border: 1px solid black;
+    p{visibility: hidden;}
+  }
+  .origin{
+    background-image: url("https://upload.wikimedia.org/wikipedia/donate/thumb/8/89/Ooui-checkbox-selected.svg/1024px-Ooui-checkbox-selected.svg.png");
+    background-size: cover;
+  }
+  .origino{
+    background-image: url("https://upload.wikimedia.org/wikipedia/donate/thumb/8/89/Ooui-checkbox-selected.svg/1024px-Ooui-checkbox-selected.svg.png");
+    background-size: cover;
+  }
+  .destin{
+    background-image: url("https://upload.wikimedia.org/wikipedia/donate/thumb/8/89/Ooui-checkbox-selected.svg/1024px-Ooui-checkbox-selected.svg.png");
+    background-size: cover;
+  }
+  .destino{
+    background-image: url("https://upload.wikimedia.org/wikipedia/donate/thumb/8/89/Ooui-checkbox-selected.svg/1024px-Ooui-checkbox-selected.svg.png");
+    background-size: cover;
+  }
+  @media (max-width: 720px){
+    .otitle{
+      width: 100%;
+    }
+    .list-item{
+      width: 100%;
+    }
+    .booking{
+      width: 100%;
+    }
+    .airp-info{
+      p{
+        font-size: 10px;
+      }
+    }
+  }
+}

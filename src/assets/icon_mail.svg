@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="27" height="27" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_2142" data-name="Grupo 2142" transform="translate(-10 -10)">
+    <g id="Repetição_de_grade_2" data-name="Repetição de grade 2" transform="translate(10 10)" clip-path="url(#clip-path)">
+      <g transform="translate(-10 -10)">
+        <circle id="Elipse_405" data-name="Elipse 405" cx="13.5" cy="13.5" r="13.5" transform="translate(10 10)" fill="#b6bad6"/>
+      </g>
+    </g>
+    <g id="Grupo_2127" data-name="Grupo 2127" transform="translate(15 17)">
+      <g id="Grupo_1444" data-name="Grupo 1444" transform="translate(0 0.002)">
+        <path id="Caminho_1200" data-name="Caminho 1200" d="M760.725,1311.724H745.818a.878.878,0,0,1-.878-.878V1300.5a.878.878,0,0,1,.878-.878h14.907a.878.878,0,0,1,.878.878v10.348A.878.878,0,0,1,760.725,1311.724ZM746.7,1309.97H759.85v-8.594H746.7Z" transform="translate(-744.94 -1299.62)" fill="#fff"/>
+      </g>
+      <g id="Grupo_1445" data-name="Grupo 1445">
+        <path id="Caminho_1201" data-name="Caminho 1201" d="M753.271,1307.5a.872.872,0,0,1-.558-.2l-7.454-6.139a.878.878,0,1,1,1.116-1.354l6.9,5.68,6.9-5.68a.878.878,0,1,1,1.116,1.354l-7.454,6.139A.868.868,0,0,1,753.271,1307.5Z" transform="translate(-744.939 -1299.609)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+
+.bt {
+   
+    border-radius: 30px;    
+    border: 1px solid #5e6489;
+    color: #5e6489;
+    background: #FFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 16px;
+    position: relative;
+    font-size: 15px;
+    padding: 10px 50px;
+    cursor: pointer;
+    transition:  transform .2s;;
+    
+ }
+ .bt:hover{   
+   transform: scale(1.03)
+}
+
+ .bt.none {
+    border: none;
+    background: none;
+    color: #5e6489;
+ }
+ .icon-bt {
+    position: absolute;
+    left: 10px;
+ }

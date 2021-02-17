@@ -1,0 +1,44 @@
+.login-box{
+    display: flex;
+    flex-direction: column;   
+    align-items:center; 
+    justify-content:center;
+    width:100%;
+    height: 300px;
+    margin-top: 5%;
+    .form-login{
+        display: flex;
+        justify-content: center;
+        width: 60%;
+    }
+    form{
+        display: flex;
+        flex-direction: column;   
+        align-items:center; 
+        justify-content:center;
+        width: 100%;   
+        input{
+            margin-top: 10px;
+            height: 20px;
+            padding: 1%;
+            width: 100%;
+        }
+        span{color:red}
+    }
+    button{
+        margin-top: 10px;
+        width: 80%;
+        border-radius: 30px;    
+        border: 1px solid #22367F;
+        color: #FFFF;
+        background: #22367F;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 16px;
+        position: relative;
+        font-size: 10px;
+        padding: 10px 50px;
+        cursor: pointer;
+    }
+}

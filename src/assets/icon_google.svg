@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.866" height="25.374" viewBox="0 0 24.866 25.374">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24.866" height="25.374" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repetição_de_grade_1" data-name="Repetição de grade 1" clip-path="url(#clip-path)">
+    <g id="Grupo_2123" data-name="Grupo 2123">
+      <path id="Icon_simple-google" data-name="Icon simple-google" d="M13.047,10.874v4.351h7.2c-.291,1.866-2.174,5.47-7.2,5.47a8.009,8.009,0,0,1,0-16.015,7.141,7.141,0,0,1,5.059,1.955l3.44-3.318A12.173,12.173,0,0,0,13.047,0a12.687,12.687,0,1,0,0,25.374c7.322,0,12.179-5.148,12.179-12.4a11.559,11.559,0,0,0-.2-2.1Z" transform="translate(-0.36)" fill="#ea4335"/>
+    </g>
+  </g>
+</svg>
