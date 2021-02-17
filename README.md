@@ -5,7 +5,15 @@
 
 ## Inicializar Projeto
 
-Para incializr o projeto basta rodar o script de start:
+Primeiro devemos adicionar os node_modules:
+
+npm install
+
+ou 
+
+yarn install
+
+Agora para incializr o projeto basta rodar o script de start:
 
 npm start
 
