@@ -13,7 +13,7 @@ ou
 
 yarn install
 
-Agora para incializr o projeto basta rodar o script de start:
+Agora para incializar o projeto basta rodar o script de start:
 
 npm start
 
